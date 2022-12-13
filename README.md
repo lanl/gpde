@@ -1,6 +1,6 @@
 # gpde
 
-This is the source code for the "gpde" package in R, which will hopefully get posted to the comprehensive R archive (CRAN)in the near future to improve useability. For now it is only available in this repository.
+This is the source code for the "gpde" package in R, which will hopefully get posted to the comprehensive R archive (CRAN) in the near future to improve useability. For now it is only available in this repository.
 
 The demo folder contains scripts to test/show the functionality. Better documentation, testing, and usage properties to come.
 
