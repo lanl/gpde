@@ -4,10 +4,10 @@ This is the source code for the "gpde" package in R, which will hopefully get po
 
 The demo folder contains scripts to test/show the functionality. Better documentation, testing, and usage properties to come.
 
-<img src='/Users/mikegros/Projects/R Packages/gpde/man/figures/lorenz63_1.png' align="left" height="300" />
-<img src='man/figures/lorenz63_2.png' align="right" height="300" />
-<img src='man/figures/duffing_1.png' align="left" height="300" />
-<img src='man/figures/duffing_2.png' align="right" height="300" />
+<img src='man/figures/lorenz63_1.png' align="left" height="400" />
+<img src='man/figures/lorenz63_2.png' align="right" height="400" />
+<img src='man/figures/duffing_1.png' align="left" height="400" />
+<img src='man/figures/duffing_2.png' align="right" height="400" />
 
 ___
 
